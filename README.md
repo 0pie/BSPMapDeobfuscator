@@ -10,3 +10,5 @@ This program will simply reverse the process.
 `csc BSPMapDeobfuscator.cs`
 
 `BSPMapDeobfuscator.exe mapname_proc.bsp` where mapname_proc.bsp is a obfuscated bsp map.
+
+Add '_proc' at the end of the bsp file before processing it.
